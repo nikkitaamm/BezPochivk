@@ -1,0 +1,52 @@
+
+
+
+.navbar-toggler {
+  padding: 1px 5px;
+  font-size: 18px;
+  line-height: 0.3;
+ 
+}
+/*  carousel      */
+
+.carousel-item {
+  height: 100vh;
+  min-height: 300px;
+}
+.bg-1 {
+  background-image: url(para-home.jpg);
+}
+.bg-2 {
+  background-image: url(raft-home.jpg);
+
+}
+.bg-3 {
+  background-image: url(atv-home.jpg);
+}
+.bg-1, .bg-2, .bg-3 {
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+.carousel-caption {
+  bottom: 220px;
+ 
+}
+
+.carousel-caption p {
+  width: 60%;
+  margin: auto;
+  font-size: 18px;
+  line-height: 1.9;
+}
+.carousel-caption a {
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 5px 20px;
+  display: inline-block;
+  color: #fff;
+  margin-top: 15px;
+  border-radius: 5px;
+}
+
+
+
